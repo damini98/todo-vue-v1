@@ -1,4 +1,5 @@
 # firstvue
+Basic Todo List App using basic Vue.js using Jsonplaceholder Fake API
 
 ## Project setup
 ```
